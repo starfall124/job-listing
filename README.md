@@ -1,4 +1,4 @@
-# Trivia App
+# Job List
 
 This project is a simple Job Listing which use mock job data and written in **React** and **TypeScript**.
 
